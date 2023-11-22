@@ -1,5 +1,7 @@
 # Visual Studio Key Export
 ### A small application that allows getting keys for Visual Studio installed on the computer.
+Enterprise: VHF9H-NXBBB-638P6-6JHCY-88JWH
+Professional: TD244-P4NB7-YQ6XK-Y8MMM-YWV2J
 
 # EN
 To view the Visual Studio license installed on your computer, simply run the **VisualStudioKeyExport.exe** application included in the _.zip_ file.\
